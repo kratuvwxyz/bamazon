@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon is not amazon, it is a CLI-based storefront with the MySQL database backend.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kratuvwxyz/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "KRATUVWXYZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kratuvwxyz/bamazon/issues"
+  },
+  "homepage": "https://github.com/kratuvwxyz/bamazon#readme"
+}
